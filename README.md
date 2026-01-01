@@ -15,7 +15,7 @@ This folder contains the complete scripts for the HR database used in my YouTube
 
 You're ready for analysis!
 
-Full video: [Link to your YouTube Part 1]
+Full video: [https://youtu.be/TD5NKGHnhk4]
 
 GitHub repo: https://github.com/yourusername/sql-portfolio-hr-project
 
