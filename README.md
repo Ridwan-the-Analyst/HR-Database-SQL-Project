@@ -17,6 +17,6 @@ You're ready for analysis!
 
 Full video: [https://youtu.be/TD5NKGHnhk4]
 
-GitHub repo: https://github.com/yourusername/sql-portfolio-hr-project
+GitHub repo: [https://github.com/yourusername/sql-portfolio-hr-project](https://github.com/Ridwan-the-Analyst/HR-Database-SQL-Project)
 
 Happy querying! 🚀
